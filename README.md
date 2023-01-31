@@ -1,7 +1,7 @@
-﻿<h3 align="center">Spotify clone</h3>
+﻿<h3 align="center">PressPlay</h3>
 
   <p align="center">
-   A fully responsive clone of Spotify website built with Tailwind-css and ReactJs
+   A fully responsive music website built with Tailwind-css and ReactJs
     <br />
     <br />
     <a href="https://spotify-play.netlify.app/">View Demo</a>
